@@ -30,6 +30,33 @@ Bu akademi, aşağıdaki temel direkler üzerine inşa edilmiştir:
 
 ---
 
+## ⚖️ Ticaretin 10 Temel Kanunu (Axioms)
+
+Akademimizde derslere başlamadan önce, pazarın değişmez fizik kuralları olarak kabul ettiğimiz şu aksiyomları anlamak hayati önem taşır:
+
+1.  **Karşılıklı Fayda Kanunu:** Bir ticaretin sürdürülebilir olması için her iki tarafın da (veya tüm paydaşların) işlem sonunda kendini daha iyi bir durumda hissetmesi gerekir.
+2.  **Kıtlık Prensibi:** Kaynaklar sınırlı, arzular sınırsızdır. Değer, bu kıtlığın doğru yönetilmesiyle oluşur.
+3.  **Zaman Tercihi:** Bir bireyin bugünkü tüketimi, gelecekteki tüketime ne kadar tercih ettiği, faiz ve yatırım oranlarını belirleyen ana motordur.
+4.  **Karşılaştırmalı Üstünlük:** Herkes her şeyi yapmamalıdır. En iyi olduğunuz işe odaklanmak ve diğer ihtiyaçlar için takas yapmak küresel refahın temelidir.
+5.  **Gresham Kanunu:** "Kötü para iyi parayı kovar." Değeri bozulan bir takas aracı, gerçek değeri olan varlıkların piyasadan çekilmesine neden olur.
+6.  **Marjinal Fayda:** Sahip olunan her bir ek birim, bir öncekinden daha az tatmin sağlar. Fiyatlama bu azalan verime göre şekillenir.
+7.  **Bilgi Asimetrisi:** Piyasada bilgi hiçbir zaman eşit dağılmaz. Ticari kârın büyük bir kısmı, bu asimetriyi doğru okumaktan gelir.
+8.  **Risk-Getiri Dengesi:** Bedava öğle yemeği yoktur. Daha yüksek getiri potansiyeli, her zaman daha yüksek bir belirsizlik ve risk taşır.
+9.  **Duygusal Döngüsellik:** Piyasalar matematiksel değil, psikolojik döngülerle hareket eder. Korku ve açgözlülük en güçlü indikatörlerdir.
+10. **Antifrajillik Kanunu:** En dayanıklı sistemler, hatalardan ve krizlerden beslenerek daha güçlü çıkan sistemlerdir.
+
+---
+
+## 🛠️ Metodolojik Yaklaşımımız
+
+Ticaret eğitiminde "neye" bakacağımızı şu üç ana katman üzerinden analiz ediyoruz:
+
+- **Temel Analiz (Fundamental):** "Neden?" sorusuna yanıt arar. Ekonomik veriler, arz-talep dengesi ve içsel değer.
+- **Teknik ve İstatistiksel Analiz:** "Ne zaman?" sorusuna yanıt arar. Geçmiş verilerin olasılıksal dağılımı ve pazar momentumu.
+- **Duygu Analizi (Sentiment):** "Kim?" sorusuna yanıt arar. Pazar katılımcılarının psikolojik durumu ve beklenti yönetimi.
+
+---
+
 ## 🎓 Eğitim Müfredatı (Curriculum Levels)
 
 Bilgiyi daha iyi sindirebilmeniz için içeriğimizi akademik seviyelere ayırdık:
@@ -53,6 +80,17 @@ Geleceğin ticaretine hazırlık.
 - [E-Ticaret Ekosistemi: Sınırların Kalkışı](05-dijital-donusum-ve-teknoloji/e-ticaret-ekosistemi.md)
 - [AI ve Veri Analitiği: Tahminleme Sanatı](05-dijital-donusum-ve-teknoloji/yapay-zeka-ve-veri-analitigi.md)
 - [Blockchain ve Akıllı Sözleşmeler: Kodlanmış Güven](05-dijital-donusum-ve-teknoloji/blockchain-ve-akilli-sozlesmeler.md)
+
+---
+
+## 🚀 Geleceğin Ticareti: Ticaret 3.0
+
+Dünya, ticaretin fiziksel ve dijital sınırlarının tamamen silindiği bir evreye geçiyor. Bu akademide sadece bugünü değil, yarını da analiz ediyoruz:
+
+- **Otonom Ticaret (Autonomous Trading):** AI ajanlarının insanlar yerine pazarlık yaptığı ve karar aldığı bir dünya.
+- **Hiper-Kişiselleştirme:** "Herkes için aynı ürün" devrinden, veriye dayalı "kişiye özel üretim ve fiyatlama" devrine geçiş.
+- **Sınırsız Ekonomi (Borderless Economy):** Geleneksel bankacılık sistemlerinden bağımsız, 7/24 akan küresel likidite havuzları.
+- **Sürdürülebilirlik ve Etik:** Artık kâr, tek başına başarı ölçütü değil; çevresel ve sosyal etki, ticaretin "gerçek maliyetine" dahil ediliyor.
 
 ### 📓 Seviye 401: Uygulama ve Vaka Analizleri
 Gerçek dünya örnekleriyle teoriyi test etme.
@@ -89,6 +127,12 @@ Bu bir "Eğitim Projesi"dir. Katkılarınızın akademik değer taşımasını b
 1.  **Tarafsızlık:** Bilgi eklerken kişisel görüşlerden ziyade verilere odaklanın.
 2.  **Sadelik:** Karmaşık konuları herkesin anlayabileceği şekilde açıklayın.
 3.  **Evrensellik:** Sadece bir ülkeye özgü değil, küresel geçerliliği olan bilgiler ekleyin.
+
+### 📝 Katkı Kontrol Listesi:
+- [ ] Bilgi tarafsız mı?
+- [ ] Kaynaklar güvenilir mi?
+- [ ] Dil sade ve anlaşılır mı?
+- [ ] Seviye (101-401) doğru belirlendi mi?
 
 ---
 
