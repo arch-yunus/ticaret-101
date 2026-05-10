@@ -57,6 +57,40 @@ Ticaret eğitiminde "neye" bakacağımızı şu üç ana katman üzerinden anali
 
 ---
 
+## 💎 Değer İnşasının 4 Temeli (Utility Types)
+
+Ticaret, değerin yoktan var edilmesi değil, var olan potansiyelin faydaya dönüştürülmesidir. Bu süreç dört ana boyutta gerçekleşir:
+
+1.  **Biçim Faydası (Form Utility):** Hammaddelerin işlenerek daha kullanışlı hale getirilmesi (Örn: Demir cevherinin çeliğe, çeliğin otomobile dönüşmesi).
+2.  **Yer Faydası (Place Utility):** Ürünün, ona en çok ihtiyaç duyulan yere taşınması (Örn: Çöldeki suyun değeri, nehir kenarındaki sudan fazladır).
+3.  **Zaman Faydası (Time Utility):** Ürünün, ona en çok ihtiyaç duyulan anda sunulması (Örn: Mevsimlik ürünlerin depolanarak kışın satılması).
+4.  **Mülkiyet Faydası (Possession Utility):** Ürünün el değiştirerek, ondan en yüksek verimi alacak kişiye geçmesi (Takasın temel motoru).
+
+---
+
+## 🧭 Ticari Karar Verme Matrisi
+
+Herhangi bir ticari işleme veya yatırıma girmeden önce kendimize sormamız gereken 4 temel soru:
+
+| Soru | Odak Noktası | Amacı |
+| :--- | :--- | :--- |
+| **Marjinal Fayda Nedir?** | Değer | Bu işlem karşı tarafa ve bana ne katıyor? |
+| **Fırsat Maliyeti Nedir?** | Alternatif | Bu parayı ve zamanı başka nerede kullanabilirdim? |
+| **Risk/Getiri Oranı Nedir?** | Olasılık | Kaybedeceğim 1 birim için kaç birim kazanmayı hedefliyorum? |
+| **Antifrajillik Payı Nedir?** | Dayanıklılık | Eğer işler ters giderse, bu beni öldürür mü yoksa öğretir mi? |
+
+---
+
+## 🗺️ Küresel Ticaretin Jeopolitiği
+
+Ticaret, coğrafyadan bağımsız değildir. "Küresel" perspektifimiz, jeopolitik dengeleri de içerir:
+
+- **Lojistik Boğazlar ve Kanallar:** Süveyş, Malakka ve Hürmüz gibi dar geçitlerin kontrolü, küresel ticaretin nabzını belirler.
+- **Ekonomik Bloklar ve Ticaret Savaşları:** Serbest ticaret anlaşmaları ile gümrük duvarları arasındaki çekişme, pazarın yönünü tayin eder.
+- **Kaynak Diplomasisi:** Enerji, nadir elementler ve gıda güvenliği; modern ticaretin en stratejik "satranç taşlarıdır".
+
+---
+
 ## 🎓 Eğitim Müfredatı (Curriculum Levels)
 
 Bilgiyi daha iyi sindirebilmeniz için içeriğimizi akademik seviyelere ayırdık:
@@ -106,6 +140,16 @@ Tüccar, sadece hesap makinesi değil, aynı zamanda bir stratejisttir. Bu yüzd
 
 - **Mini-Sözlük:** [Temel Terimler ve Tanımlar](#-ticaret-sözlüğü-mini-glossary)
 - **Manifesto:** [Ticaretin 4 Altın Kuralı](#-vizyon-ve-manifesto)
+
+---
+
+## ⚖️ Sürdürülebilirlik ve Etik: Uzun Vadeli Değer
+
+Ticaretin tarafsızlığı, ahlaksızlık anlamına gelmez. Gerçek değer inşası, ekosistemi tüketmek yerine onu beslemeyi gerektirir:
+
+- **Dışsallıklar (Externalities):** Bir ticari işlemin üçüncü taraflara (toplum, çevre) verdiği zarar veya fayda. Sürdürülebilir bir tüccar, negatif dışsallıkları minimize eder.
+- **İtibar Sermayesi:** Güvenin en likit varlık olduğu bir dünyada, etik dışı her hamle aslında "gelecekteki kârların" bugünden yakılmasıdır.
+- **Döngüsel Ekonomi:** Kaynakların israf edilmediği, çıktının tekrar girdi haline geldiği modeller, geleceğin ticaret standartlarını belirleyecektir.
 
 ---
 
