@@ -22,6 +22,12 @@ Sahip olduğunuz her bir ek birim, bir öncekinden daha az tatmin sağlar. İlk 
 
 Lüks bir kol saati zamanı göstermek için değil, kullanıcısının statüsünü ve zevkini yansıtmak için değerlidir. Bu, değerin "fonksiyonel" olmaktan çıkıp "sembolik" hale geldiği noktadır.
 
+### 💎 Veblen Etkisi ve Gösterişçi Tüketim
+Normal şartlarda fiyat arttıkça talep düşer. Ancak bazı ürünlerde (lüks otomobiller, sanat eserleri) fiyat arttıkça talebin de arttığı görülür. Buna **Veblen Etkisi** denir. Buradaki değer, ürünün kıtlığı ve sunduğu sosyal prestijdir. Tüccar için bu, "yüksek segment" konumlandırmasının anahtarıdır.
+
+## 4. İtibari Değer vs. Gerçek Değer
+Modern ekonomide "Fiat Para" (itibari para) kendi başına bir değere sahip değildir; ona olan güven değerini belirler. Ticarette de sunduğunuz teklifin "algılanan değeri" (perceived value), çoğu zaman fiziksel gerçekliğinden daha önemlidir. Başarılı bir pazarlama ve markalama çalışması, ürünün içsel değerini değil, pazarın zihnindeki itibari değerini yükseltir.
+
 ---
 
 > *"Ticaretin sırrı, kimsenin bilmediği bir şeyi bilmek değil; herkesin bildiği bir şeye kimsenin bakmadığı bir açıdan bakmaktır."*

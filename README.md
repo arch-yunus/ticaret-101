@@ -2,11 +2,40 @@
 
 # 🏛️ Ticaret 101: Değer İnşası ve Evrensel Pazar Felsefesi
 
-**Ticaretin Temelleri, Evrensel Kuralları ve Pazar Psikolojisi Üzerine Açık Kaynak Eğitim Kılavuzu**
+**"Ticaret, sadece malın el değiştirmesi değil; güvenin, değerin ve medeniyetin transferidir."**
 
-`ticaret-101` reposuna hoş geldiniz. Bu depo, ticareti basit bir "al-sat" mekaniğine indirgemek yerine; onu medeniyetleri inşa eden, insan psikolojisini yansıtan ve evrensel bir "değer transferi" felsefesi olarak ele alan açık kaynaklı bir eğitim platformudur. 
+`ticaret-101`, ticareti basit bir "al-sat" mekaniğinden kurtarıp, onu evrensel bir strateji ve felsefe disiplini olarak ele alan bir **Açık Kaynak Bilgi Ekosistemi**'dir. Amacımız, sadece kâr maksimizasyonu yapan bireyler değil; toplumsal değer üreten, riskini yöneten ve pazarın ruhunu okuyabilen "Yeni Nesil Tüccarlar" yetiştirmektir.
+---
 
-Buradaki temel amacımız; piyasa dinamiklerini, sermayenin doğasını ve ticaret ahlakını profesyonel bir derinlikle incelemek, geleceğin ve bugünün tüccarlarına vizyoner bir perspektif kazandırmaktır.
+## 🚀 Stratejik Yol Haritası
+
+Bu proje, bir dokümantasyon yığınından tam teşekküllü bir ticaret akademisine dönüşmeyi hedefler:
+
+*   **Faz 1: Temeller ve Felsefe (Tamamlanıyor):** Ticaretin ontolojisi, psikolojisi ve temel metriklerinin inşası.
+*   **Faz 2: Dijital Dönüşüm ve Veri:** E-ticaret, AI analitiği ve algoritma tabanlı ticaret stratejileri.
+*   **Faz 3: Global Ağ ve Etika:** Uluslararası ticaret hukuku, tedarik zinciri stratejileri ve ticaret etiği.
+*   **Faz 4: İnteraktif Simülasyonlar:** Gerçek pazar verileriyle test edilebilecek vaka analizleri ve simülasyon araçları.
+
+---
+
+## ⚡ Ticaret 2.0: Dijital Ufuklar
+
+Modern dünya, ticaretin araçlarını değiştirse de özünü koruyor. Ancak yeni kurallar artık algoritmalar ve verilerle yazılıyor:
+
+- **Veri Odaklı Karar Alma:** "Hissiyat" yerini "Olasılık" hesaplarına bırakıyor.
+- **Asimetrik Bilgi:** İnternet bilgiyi demokratikleştirse de, doğru filtreleme gerçek avantajı sağlıyor.
+- **Blockchain Devrimi:** Aracıların kalktığı, güvenin kodlarla sağlandığı yeni bir takas çağı.
+
+---
+
+## 👁️ Vizyon ve Manifesto
+
+Ticaret, insanlığın en eski ve en etkili iletişim dilidir. Bu repoda savunduğumuz temel doktrinler şunlardır:
+
+1.  **Değer Odaklılık:** Ticaretin temel birimi para değil, "değer"dir. Değer katmadığınız hiçbir işlem uzun vadeli bir ticaret değildir, sadece geçici bir kazançtır.
+2.  **Etik ve İtibar:** En büyük sermaye kasadaki para değil, piyasadaki "itibar"dır. Güven, ticaretin en likit varlığıdır.
+3.  **Antifrajillik:** Piyasadaki kaos ve belirsizlik birer düşman değil, doğru stratejiyle beslenilecek birer fırsat alanıdır.
+4.  **Sürekli Öğrenme:** Pazar canlı bir organizmadır. Bugünün kuralları yarının anılarına dönüşür; bu yüzden tüccar, ebedi bir öğrencidir.
 
 ---
 
@@ -36,6 +65,17 @@ Bilanço üzerinde kârlı görünmek, cebinizde para olduğu anlamına gelmez. 
 
 ---
 
+## 🧠 Bilişsel Önyargılar ve Karar Alma
+
+Ticaret, sadece sayılarla değil, zihinle yapılır. Tüccarın en büyük düşmanı genellikle kendi biyolojik yazılımıdır:
+
+- **Doğrulama Yanlılığı (Confirmation Bias):** Sadece kendi görüşümüzü destekleyen verileri görüp, tersini reddetme eğilimi.
+- **Batık Maliyet Yanılgısı (Sunk Cost Fallacy):** "O kadar yatırım yaptık, artık bırakamayız" diyerek ölü bir işe para yatırmaya devam etmek.
+- **Kaybetmekten Kaçınma (Loss Aversion):** Kaybetmenin verdiği acı, kazanmanın verdiği hazdan iki kat daha güçlüdür; bu da bizi rasyonel olmayan riskler almaya itebilir.
+- **Dunning-Kruger Etkisi:** Bir konuyu az bilenlerin, kendilerini o konuda uzman sanma eğilimi. Ticarette bu, genellikle ilk büyük zararla sonuçlanır.
+
+---
+
 ## 📂 Eğitim Klasörü Mimarisi
 
 Bilgiyi sistematik bir şekilde aktarmak için projemiz aşağıdaki gibi yapılandırılmıştır:
@@ -48,13 +88,48 @@ Bilgiyi sistematik bir şekilde aktarmak için projemiz aşağıdaki gibi yapıl
   - [Arz-Talep Dinamikleri](02-ekonomik-temeller/arz-talep-dinamikleri.md)
   - [Fırsat Maliyeti](02-ekonomik-temeller/firsat-maliyeti.md)
   - [Makro ve Mikro Metrikler](02-ekonomik-temeller/makro-ve-mikro-metrikler.md)
+  - [Oyun Teorisi ve Strateji](02-ekonomik-temeller/oyun-teorisi-ve-strateji.md) [YENİ]
 - [**03-strateji-ve-yonetim/**](03-strateji-ve-yonetim/)
   - [Risk ve Sermaye Yönetimi](03-strateji-ve-yonetim/risk-ve-sermaye-yonetimi.md)
   - [Asimetrik Getiri Modelleri](03-strateji-ve-yonetim/asimetrik-getiri-modelleri.md)
   - [Nakit Akışı Optimizasyonu](03-strateji-ve-yonetim/nakit-akisi-optimizasyonu.md)
+  - [Tedarik Zinciri ve Lojistik](03-strateji-ve-yonetim/tedarik-zinciri-ve-lojistik.md) [YENİ]
 - [**04-tarihi-perspektif-ve-sozler/**](04-tarihi-perspektif-ve-sozler/)
   - [Vizyoner Liderler](04-tarihi-perspektif-ve-sozler/vizyoner-liderler.md)
   - [Ticaret Tarihinden Kesitler](04-tarihi-perspektif-ve-sozler/ticaret-tarihinden-kesitler.md)
+- [**05-dijital-donusum-ve-teknoloji/**](05-dijital-donusum-ve-teknoloji/)
+  - [E-Ticaret Ekosistemi](05-dijital-donusum-ve-teknoloji/e-ticaret-ekosistemi.md)
+  - [AI ve Veri Analitiği](05-dijital-donusum-ve-teknoloji/yapay-zeka-ve-veri-analitigi.md)
+  - [Blockchain ve Akıllı Sözleşmeler](05-dijital-donusum-ve-teknoloji/blockchain-ve-akilli-sozlesmeler.md)
+- [**06-etik-ve-hukuk/**](06-etik-ve-hukuk/)
+  - [Ticaret Etiği ve İtibar](06-etik-ve-hukuk/ticaret-etigi-ve-itibar.md)
+  - [Hukuki Çerçeve ve Kontratlar](06-etik-ve-hukuk/hukuki-cerceve-ve-kontratlar.md)
+- [**07-vaka-analizleri/**](07-vaka-analizleri/)
+  - [Birleşik Vaka Analizleri](07-vaka-analizleri/vaka-analizleri.md)
+
+---
+
+## 📖 Ticaret Sözlüğü (Mini-Glossary)
+
+Ticaret dilini konuşmak, pazarın ruhunu anlamanın ilk adımıdır:
+
+| Terim | Tanım |
+| :--- | :--- |
+| **Likidite** | Bir varlığın değer kaybetmeden hızla nakde çevrilebilme kapasitesi. |
+| **Marj** | Alış fiyatı ile satış fiyatı arasındaki fark (kâr payı). |
+| **Arbitraj** | Aynı varlığın farklı pazarlardaki fiyat farkından kâr etme eylemi. |
+| **Heceleme (Hedging)** | Olası zararları minimize etmek için yapılan karşıt yatırım. |
+| **Bilanço** | Bir işletmenin belirli bir andaki varlıklarını ve borçlarını gösteren tablo. |
+
+---
+
+## 🛠️ Bu Rehber Nasıl Kullanılmalı?
+
+Bu depo, baştan sona okunacak bir kitap olduğu kadar, ihtiyaç anında dönülecek bir referans kaynağıdır:
+
+1.  **Sıralı Takip:** Eğer ticarete yeni başlıyorsanız, `01`'den `07`'ye kadar klasör sırasını takip edin.
+2.  **Vaka Analizi Odaklı:** Stratejinizi geliştirmek istiyorsanız doğrudan `07-vaka-analizleri` klasörüne dalın.
+3.  **Katkı Sağla:** Öğrendiğiniz her yeni bilgiyi veya analiz ettiğiniz her vakayı repoya ekleyerek bilgiyi kalıcı hale getirin.
 
 ---
 
@@ -74,7 +149,13 @@ Tarihin en büyük düşünürleri ve liderleri, ticaretin felsefesini tek cüml
 
 ## 🤝 Akademiye Katkı Sağlamak
 
-Bu depo, statik bir kitap değil, yaşayan bir akademidir. Ticaret felsefesini genişletmek, yeni bir strateji analizi eklemek veya mevcut doktrinleri geliştirmek isterseniz:
+Bu depo, statik bir kitap değil, yaşayan bir akademidir. Katkı sağlarken şu ilkeleri gözetmenizi bekliyoruz:
+
+- **Bilimsel ve Tarafsız Dil:** Duygusal yorumlar yerine verilere ve mantıksal temellere dayalı içerik.
+- **Kaynak Gösterme:** Önemli iddialar ve stratejiler için (eğer varsa) akademik veya sektörel kaynaklara atıfta bulunma.
+- **Pratik ve Teorik Denge:** Sadece teori değil, uygulanabilir stratejik çıkarımlara yer verme.
+
+### Katılım Süreci:
 
 1. Repoyu kendi profilinize çekin (Fork).
 2. Yeni bir çalışma dalı (branch) oluşturun: `git checkout -b kavram-yeni-analiz`

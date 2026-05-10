@@ -14,6 +14,12 @@ Hatalı olduğunuzu kabul etmenin maliyeti, o anki küçük bir zarardır. Stop-
 ## 4. Getiri/Risk Oranı (Risk/Reward Ratio)
 Her işleme girmeden önce şu soru sorulmalıdır: "Bu riski aldığımda, karşılığında ne kadar kazanmayı bekliyorum?" 1 birim risk alıp 3 birim getiri beklediğiniz (1:3 R/R) bir sistemde, işlemlerinizin yarısında bile hatalı olsanız uzun vadede kârlı kalırsınız.
 
+## 5. Kelly Kriteri: Optimal Bahis Miktarı
+Matematiksel olarak, ne kadar sermaye riske atılmalıdır? **Kelly Kriteri**, kazanma olasılığınız ve getiri oranınıza göre iflas etmeden maksimum büyümeyi sağlayacak pozisyon büyüklüğünü hesaplar. Bu formül, tüccarın hırsı ile rasyonelliği arasındaki dengeyi kurar.
+
+## 6. Antifrajil Stratejiler
+Nassim Taleb'in teorisine göre; bazı sistemler sarsıntılardan, hatalardan ve kaostan beslenir. Ticarette antifrajil olmak, sınırlı kayıp riski (limited downside) karşılığında sınırsız kazanç potansiyeli (unlimited upside) olan "asimetrik bahisler" yapmaktır. Örneğin; küçük bir sermaye ile yeni bir pazara girmek, kaybederseniz az kaybedeceğiniz ama kazanırsanız devasa büyüyeceğiniz bir antifrajil harekettir.
+
 ---
 
 ### Sermaye Yönetimi Manifestosu:

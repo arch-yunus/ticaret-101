@@ -11,7 +11,13 @@ Bir işe veya varlığa çok fazla zaman ve para harcadığımız için, o iş a
 ## 3. Demirlenme Etkisi (Anchoring)
 Zihnin, bir varlığın "olması gereken fiyatına" dair geçmişteki bir rakama takılıp kalmasıdır. Örneğin bir hisse 100 TL'den 50 TL'ye düştüğünde, zihin hala 100 TL rakamına "demirlemiş" olabilir ve 50 TL'nin çok ucuz olduğunu düşünebilir. Oysa piyasa koşulları değişmiş ve 50 TL bile pahalı hale gelmiş olabilir.
 
-## 4. Olasılık Teorisi ve Rasyonel Karar
+## 4. Doğrulama Yanlılığı (Confirmation Bias)
+İnsanlar, mevcut inançlarını destekleyen bilgileri arama ve onlara daha fazla ağırlık verme eğilimindedir. Eğer bir tüccar bir varlığın yükseleceğine inanmışsa, sadece yükseliş sinyallerini görür ve düşüş yönündeki hayati uyarıları görmezden gelir. Bu, rasyonel analizi felç eden en tehlikeli yanılgılardan biridir.
+
+## 5. Dunning-Kruger Etkisi
+Bilgi seviyesi düşük olan bireylerin, kendi yeteneklerini abartma eğilimidir. Ticarette "yeni başlayan şansı" ile birkaç başarılı işlem yapan amatörler, piyasayı çözdüklerini sanarak kontrolsüz riskler alırlar. Gerçek uzmanlık, ne kadar bilmediğinin farkında olmaktır.
+
+## 6. Olasılık Teorisi ve Rasyonel Karar
 Ticarette %100 kesinlik yoktur, sadece olasılıklar vardır. Rasyonel bir karar verici, işlemin başarı olasılığını (Win Rate) ve getiri/risk oranını (Risk/Reward) çarparak **Beklenen Değer (Expected Value)** analizi yapar. Eğer beklenen değer pozitifse, o işleme girilir. Sonuç negatif olsa bile, karar alma süreci rasyoneldir.
 
 ---

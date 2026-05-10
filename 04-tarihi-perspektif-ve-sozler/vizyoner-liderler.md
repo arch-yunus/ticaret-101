@@ -18,6 +18,14 @@ Anadolu Selçuklu ve Osmanlı döneminde gelişen Ahilik, ticaretin ahlaki ve ka
 Standard Oil'in kurucusu Rockefeller, operasyonel verimliliği ve dikey entegrasyonu (üretimden dağıtıma her aşamayı kontrol etme) zirveye taşımıştır. O, rakiplerini yok etmekten ziyade sistemi daha verimli hale getirerek domine etmiştir.
 - **Ders:** Maliyet liderliği ve ölçek ekonomisi, aşılması zor bir kale inşa eder.
 
+## 5. Mansa Musa: Likidite ve Enflasyon Yönetimi
+Tarihin en zengin insanı olarak kabul edilen Mali İmparatoru Mansa Musa, Hac yolculuğu sırasında dağıttığı devasa miktardaki altınla geçtiği bölgelerin ekonomisini altüst etmiş (hiperenflasyona neden olmuş) ve piyasadaki **para arzının** gücünü kanıtlamıştır.
+- **Ders:** Kontrolsüz likidite artışı, değerin erimesine yol açar. Bir tüccar, sadece kendi varlığını değil, içinde bulunduğu ekosistemin dengelerini de anlamalıdır.
+
+## 6. Steve Jobs: Ürün Odaklı Değer İnşası
+Jobs, pazarın ne istediğini sormaktan ziyade, pazarın neye ihtiyaç duyacağını (henüz farkında olmasa bile) öngörmüştür. Ticareti bir pazarlama oyunundan ziyade, bir "mühendislik ve sanat sentezi" olarak görmüştür.
+- **Ders:** Gerçek değer, tüketicinin hayatını kökten değiştiren inovasyondan gelir.
+
 ---
 
 > *"Başarılı bir tüccar, herkesin baktığı yere bakan ama kimsenin görmediği detayı görendir."*

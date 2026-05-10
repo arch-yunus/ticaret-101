@@ -14,6 +14,11 @@ Başarılı bir ticaret modeli, mümkün olduğunca talep elastikiyeti düşük 
 ## 3. Görünmez El ve Kendi Çıkarı
 Adam Smith'in "Görünmez El" teorisi, bireylerin kendi çıkarlarını maksimize etme çabasının (daha çok kâr etmek), dolaylı olarak toplumsal refahı artırdığını savunur. Bir fırıncı size taze ekmek veriyorsa, bu sizi sevdiği için değil, kendi geçimini sağlamak içindir. Ticaret, karşılıklı çıkarın toplumsal faydaya dönüştüğü bir sistemdir.
 
+### 📈 İstisnai Durumlar: Giffen ve Veblen Malları
+Arz-talep kanununun her zaman beklendiği gibi çalışmadığı alanlar vardır:
+- **Giffen Malları:** Fiyatı arttıkça talebinin de arttığı temel ihtiyaç maddeleridir (Örn: Fakirlik sınırındaki bir toplumda ekmek fiyatı artarsa, insanlar eti tamamen bırakıp daha çok ekmek alabilirler).
+- **Züppe Etkisi (Snob Effect) / Veblen Malları:** Bazı ürünler sadece "pahalı oldukları için" talep edilirler. Fiyat düştüğünde, "ayrıcalık" hissi kaybolduğu için talep de düşebilir.
+
 ## 4. Denge ve Arbitraj
 Eğer iki farklı pazarda aynı ürün farklı fiyatlardaysa, tüccarlar ucuz yerden alıp pahalı yerde satarak fiyatları birbirine yaklaştırırlar (Arbitraj). Bu süreç pazarın verimliliğini artırır ve dengeye (equilibrium) ulaşılmasını sağlar.
 
