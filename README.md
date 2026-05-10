@@ -8,6 +8,17 @@
 
 ---
 
+## 🚀 Neden Ticaret Öğrenmelisiniz? (Vizyonumuz)
+
+Ticaret, sadece bir meslek değil, dünyayı anlama ve şekillendirme dilidir. İşte bu akademide yolculuğa başlamanız için temel motivasyonlar:
+
+- **Ekonomik Özgürlüğün Anahtarı:** Ticaret bilmek, başkalarının kurduğu sistemlerde sadece bir "dişli" olmak yerine, kendi değerinizi inşa etme gücü verir. Değer transferini anlayan birey, her koşulda hayatta kalabilir.
+- **Evrensel Bir Beceri:** Mühendis, sanatçı veya doktor olmanız fark etmez; yaptığınız işin değerini dünyaya anlatmak ve bu değeri sürdürülebilir kılmak için ticaretin temel prensiplerine ihtiyacınız vardır.
+- **Dünya İle Bağ Kurmak:** Ticaret, farklı kültürlerin, fikirlerin ve insanların ortak bir dilde buluştuğu en barışçıl platformdur. Bir tüccar, dünyayı birbirine bağlayan bir diplomattır.
+- **Sorun Çözme Sanatı:** Gerçek ticaret, piyasadaki acı noktalarını tespit edip onlara çözüm üretmektir. Ticaret öğrenmek, dünyaya "nasıl faydalı olabilirim?" sorusuyla bakmayı öğretir.
+
+---
+
 ## 🏛️ Misyonumuz ve Eğitim Felsefesi
 
 Bu akademi, aşağıdaki temel direkler üzerine inşa edilmiştir:
